@@ -1,6 +1,6 @@
 {
   "routes": [
-    { "source": "/(.*)", "destination": "/api/index" }
+    { "source": "/(.*)", "destination": "/api/index.py" }
   ],
   "headers": [
     {
